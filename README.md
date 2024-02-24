@@ -5,4 +5,3 @@
 - 🌱 Estoy haciendo alternativa terminal en maestría y pretendo continuarla.
 - 👯 Me gusta la econometría y la programación.
 - 🤔 Me gusta hacer ejercicio y aprender cada vez más cosas nuevas.
--->
